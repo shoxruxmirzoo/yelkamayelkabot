@@ -1,0 +1,19 @@
+{
+  "name": "yelkamayelka",
+  "version": "1.0.0",
+  "description": "Yelkama Yelka hayriya fondi uchun arizalarni qabul qilish uchun bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yonmayon"
+  ],
+  "author": "Shoxruxmirzo Xolmirzayev",
+  "license": "ISC",
+  "dependencies": {
+    "forever": "^2.0.0",
+    "nodemon": "^2.0.2",
+    "telegraf": "^3.36.0"
+  }
+}
